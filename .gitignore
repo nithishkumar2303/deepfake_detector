@@ -1,0 +1,18 @@
+# ignore dataset
+data/
+dataset/
+datasets/
+*.mp4
+*.avi
+*.mov
+*.zip
+
+# ignore virtual env
+tfenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# system files
+.DS_Store
