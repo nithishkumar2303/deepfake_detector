@@ -14,7 +14,3 @@ tfenv/
 __pycache__/
 *.pyc
 
-# system files
-.DS_Store
-models/
-*.h5
